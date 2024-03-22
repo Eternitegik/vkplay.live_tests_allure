@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 22 17:40:17 MSK 2024","Fri Mar 22 17:40:23 MSK 2024","6198","tests","test_main","TestMain","","","test_popup",""
+"passed","Fri Mar 22 17:41:02 MSK 2024","Fri Mar 22 17:41:06 MSK 2024","3369","tests","test_offline_streamer","TestOfflineStreamer","","","test_popup",""
+"passed","Fri Mar 22 17:40:42 MSK 2024","Fri Mar 22 17:40:45 MSK 2024","3550","tests","test_main","TestMain","","","test_recommend",""
+"passed","Fri Mar 22 17:40:30 MSK 2024","Fri Mar 22 17:40:34 MSK 2024","4048","tests","test_main","TestMain","","","test_streamer_search",""
+"passed","Fri Mar 22 17:40:53 MSK 2024","Fri Mar 22 17:40:59 MSK 2024","6315","tests","test_main","TestMain","","","test_categories",""
