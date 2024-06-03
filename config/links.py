@@ -2,5 +2,5 @@
 
 class Links:
 
-    HOST = 'https://vkplay.live'
+    HOST = 'https://live.vkplay.ru'
     OFFLINE_STREAMER = f'{HOST}/ejik'
